@@ -183,7 +183,7 @@ const documents = [
     link: JobResponseForm
   },
   {
-    title: "Internship Announcement Form (IAF)",
+    title: "Internship Response Form (IRF)",
     description: "Standard response form for organizations offering internship opportunities to students.",
     type: "PDF",
     link: InternshipResponseForm
