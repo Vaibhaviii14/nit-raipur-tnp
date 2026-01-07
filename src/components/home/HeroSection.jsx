@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import campusImage from "@/assets/nitrr-campus.jpg";
 
 const stats = [
-  { icon: Users, value: "3000+", label: "Students Placed" },
+  { icon: Users, value: "12", label: "Branches" },
   { icon: Building2, value: "150+", label: "Recruiters" },
   { icon: Award, value: "60+", label: "Years Legacy" },
 ];

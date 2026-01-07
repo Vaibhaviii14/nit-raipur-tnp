@@ -20,13 +20,18 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    content: "+91-7400730333",
+    content: "+91-7400730333, +91-7712253675",
     href: "tel:+917400730333",
   },
   {
     icon: Mail,
     title: "Email",
-    content: "tpo@nitrr.ac.in",
+    content: (
+    <>
+      <div>tpo@nitrr.ac.in</div>
+      <div>placement@nitrr.ac.in</div>
+    </>
+  ),
     href: "mailto:tpo@nitrr.ac.in",
   },
   {
