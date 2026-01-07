@@ -26,7 +26,12 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    content: "tpo@nitrr.ac.in",
+    content: (
+    <>
+      <div>tpo@nitrr.ac.in</div>
+      <div>placement@nitrr.ac.in</div>
+    </>
+  ),
     href: "mailto:tpo@nitrr.ac.in",
   },
   {
