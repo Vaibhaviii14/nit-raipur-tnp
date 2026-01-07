@@ -49,7 +49,7 @@ const seniors = [
 
 const executives = [
   {
-    name: "Ashutosh Behra",
+    name: "Ashutosh Behera",
     branch: "Computer Science & Engineering",
     batch: "2024 – 2028",
     email: "abehera015.btech2024@cse.nitrr.ac.in",
